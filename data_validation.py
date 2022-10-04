@@ -27,7 +27,7 @@ if __name__ == "__main__":
     # EXTRACCION PROCESS
 
     # Validate
-    if check_if_valid_data(song_df):
+    if check_if_valid_data(YOUR_DF):
         print("Data valid, proceed to Load stage")
 
 
